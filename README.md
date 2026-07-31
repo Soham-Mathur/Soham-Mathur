@@ -25,4 +25,4 @@ DSA fundamentals, Android development, and getting ready for my BTech CSE progra
 
 ## 📫 Reach me
 
-[LinkedIn](https://linkedin.com/in/soham-mathur) *(update with your actual URL)*
+[LinkedIn](https://linkedin.com/in/soham-mathur)
